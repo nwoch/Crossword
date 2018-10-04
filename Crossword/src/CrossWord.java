@@ -1,8 +1,4 @@
-// Nicole Woch & Kelli Sullivan
-// Final Project
-// 12/21/16
-
-//Our program CrossWord displays a crossword board that we manually coded and created for the user to solve. Not only does it display the board
+//CrossWord displays a crossword board that we manually coded and created for the user to solve. Not only does it display the board
 // but the program allows you to see the clues and select each question to type in your answers and the program will place your word in the desired location.
 // The program does allow you to rewrite in a new answer for questions in case you need to change your answer. Once finished you can type exit to close the program and
 // exit the crossword. We attempted to generalize the program to work for any crossword if you change and/or input minimal code. We were able to have the clues
