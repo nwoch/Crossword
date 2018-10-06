@@ -1,0 +1,29 @@
+4: When you send a letter to someone
+6: Allows you to organize files and other folders.
+8: Give the file a name and/or store the file in a certain place.
+9: Instructions that tell the computer what to do.
+10: To select an object by pressing the mouse button when the cursor is pointing to the required menu option, icon or hypertext link.
+12: To quit all applications and turn off the computer.
+13: To remove an item of data from a file or to remove a file from the disk.
+16: One of the major browsers, that is used on the Internet.
+18: In a graphical user interface (GUI), a small, pictorial, on screen representation of an object, such as a document, program, folder or disk drive.
+19: Abbreviation for Uniform Resource Locator, which is an address on the World Wide Web.
+20: To close a window that has been opened for viewing and / or editing.
+21: Place where you put files and folders that you want to delete or get rid of.
+24: the main chip on the computer that makes everything go.
+25: A file or program that can be uploaded to your computer from the Internet or disk. This file or program is uploaded without your knowledge and is intended to do damage to your computer.
+26: WWW stands for the World Wide _____
+1: Tell the computer to create a file on disk that has the information you've put into the document (usually typing).
+2: The most widely used operating system for personal computers from Microsoft.
+3: A program that you use to view pages on the Internet.
+5: This stands for MegaHertz.
+7: A general-purpose machine that processes data according to a set of instructions that are stored internally either temporarily or permanently.
+10: This kind of Internet connection is much faster than dial up Internet access. You can also watch tv on it.
+11: Abbreviation for Internet Service Provider
+13: An on-screen representation of a desktop such as used in the Macintosh and Windows operating systems.
+14: To make a change to existing data.
+15: Displays a list of commands, some with images next to them.
+17: The name of the arrow (or other shape) that tracks across the screen as you move the mouse (or other pointing device) around.
+20: Your computer or application no longer works correctly and so you 'loose' all the work you've done since the last time you saved.
+22: Allows you to move around through your document.
+23: To move an object on screen in which its complete movement is visible from starting location to destination.
