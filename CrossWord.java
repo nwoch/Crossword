@@ -1,11 +1,6 @@
-// CrossWord displays a hard-coded crossword board for the user to interact with. Not only does it display the board, 
-// but the program allows you to see the clues and select each question to type in your answers and the program will place your word in the desired location.
-// The program does allow you to rewrite in a new answer for questions in case you need to change your answer. Once finished you can type exit to close the program and
-// exit the crossword. We attempted to generalize the program to work for any crossword if you change and/or input minimal code. We were able to have the clues
-// display if you attach a file that contains them. We also were able to code the array containing the word length if you attach an answer key file with the list of words in
-// chronological order. We are far from generalizing the entire program, but if more time was spent on the program it could eventually allow for user input answers for 
-// infinitely many crossword puzzles.
-
+// CrossWord is an interactive program that displays a crossword board and clues, 
+// places the users's answers in the correct spot on the board, and allows the user
+// to change their answers if necessary while updating the board
 
 import java.awt.*;
 import javax.swing.*;
